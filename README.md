@@ -2,6 +2,8 @@
 
 # BloodConnect - Community Blood Donor Finder
 
+**[▶ Live demo](https://blood-group-donor-two.vercel.app)**
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=900&color=E53935&center=true&vCenter=true&width=900&lines=Find+Donors+Fast;Filter+by+Blood+Group+and+City;Track+Availability+and+Requests+in+Real-Time" alt="Animated project tagline" />
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
@@ -177,3 +179,8 @@ Each donor card is derived from remote user records and normalized to:
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Author
+
+Built by **[Kartikeya Yadav](https://github.com/kartikeyajay2006)**.
+[LinkedIn](https://www.linkedin.com/in/kartikeya2006/) · [Portfolio](https://kartikeya-portfolio-rx7w.vercel.app/)
